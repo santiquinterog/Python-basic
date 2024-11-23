@@ -1,5 +1,5 @@
 # Imprimir Hello, World!
-print("Hello, world!")
+print("¡Hola, mundo!")
 
 '''
 Comentarios en varias lineas
